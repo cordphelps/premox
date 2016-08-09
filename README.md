@@ -9,9 +9,9 @@ ABSTRACT
 
 
 
-[![screen shot](https://raw.githubusercontent.com/cordphelps/premox/master/images/HCI.png)]()
+[![screen shot](https://docs.google.com/spreadsheets/d/1ybksh3K2NQFo_awGiwlFOzRInnuLObz8hgp5rHyF55Q/pubchart?oid=1807754313&format=image)]()
 
-
+[![screen shot](https://docs.google.com/spreadsheets/d/1ybksh3K2NQFo_awGiwlFOzRInnuLObz8hgp5rHyF55Q/pubchart?oid=1223234070&format=image)]()
 
 
 ### License
