@@ -30,7 +30,7 @@ http://m.westernfarmpress.com/grapes/how-properly-sample-your-vineyard-when-chec
 
 5) as the technician moves down the row, attempt to alternate between reaching over the netting panel and reaching under the panel.
 
-6) attempt to colect 2 berries with each reach into the panel.
+6) attempt to collect 2 berries with each reach into the panel.
 
 7) choose clusters that will likely be harvested, avoiding damaged clusters.
 
