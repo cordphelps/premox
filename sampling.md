@@ -1,12 +1,12 @@
 
-Sampling Notes 2016
+### Sampling Notes 2016
 
 An overview of sampling best practices may be found on:
 
 http://m.westernfarmpress.com/grapes/how-properly-sample-your-vineyard-when-checking-grape-maturity
 
 
-In the specific case of the AHC vineyard, we have some constraints:
+## In the specific case of the AHC vineyard, we have some constraints:
 
 1) these vines are not harvested mechanically, so the technician chosing berries for the sample has the freedom to reject a "randomly targeted" cluster based on the likelihood that the cluster will actually be harvested. (Many clusters experience excessive mildew, raisening, and/or bird damage.)
 
@@ -17,7 +17,7 @@ In the specific case of the AHC vineyard, we have some constraints:
 4) the program director prefers that cluster sampling NOT be used. 
 
 
-Sampling Methodology
+## Sampling Methodology
 
 1) attempt to collect two berries from each side of the main trunk. Sizewise, they should fall on either side of the estimated mean berry size.
 

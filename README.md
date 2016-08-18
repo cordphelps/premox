@@ -6,7 +6,7 @@
 ABSTRACT 
 
 
-* This project examines the effect of shoot thinning and regulated deficit irrigation (RDI) on Chardonnay in the Santa Maria valley. We expect to develop insight by monitoring the maturation of the fruit and finally making and evaluating wine derived from these clusters. *  
+*This project examines the effect of shoot thinning and regulated deficit irrigation (RDI) on Chardonnay in the Santa Maria valley. We expect to develop insight by monitoring the maturation of the fruit and finally making and evaluating wine derived from these clusters.*  
 
 
 
